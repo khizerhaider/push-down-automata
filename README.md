@@ -5,6 +5,11 @@ An educational and interactive Python-based **Pushdown Automaton Simulator** wit
 ---
 
 ## 📸 Features
+![image](https://github.com/user-attachments/assets/8567d566-8819-47f3-8a61-e9411bd09322)
+![image](https://github.com/user-attachments/assets/80bbcaa1-0fb5-48fc-a53c-b85ac492d380)
+![image](https://github.com/user-attachments/assets/cc175a53-1366-42c7-9abb-57f7ec2492e1)
+
+
 
 ### ✅ PDA Design
 - Define states, alphabets, and stack symbols via an intuitive GUI
