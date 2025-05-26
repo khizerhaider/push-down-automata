@@ -119,10 +119,7 @@ Examples:
 
 📚 License
 
-This project is open-source and educational. License information can be added here.
-👥 Contributors
+This project is open-source and educational.
 
 You! Feel free to open issues, suggest improvements, or submit pu
-
-Let me know if you’d like this as a downloadable `.md` file or included in your repo structure.
 
