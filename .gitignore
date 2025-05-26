@@ -1,0 +1,30 @@
+# Ignore virtual environment folders
+venv/
+.env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test and cache files
+.pytest_cache/
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# MacOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
